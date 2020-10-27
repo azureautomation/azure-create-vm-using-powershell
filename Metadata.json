@@ -1,0 +1,20 @@
+{
+    "Author": "Nelson Thomas",
+    "ContentSize": 2151,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-create-vm-using-powershell/master/NewAzureVM.ps1",
+    "DownloadCount": 3119,
+    "Id": "Azure-Create-VM-using-33b3893f",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 41,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-9-1T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "Not Defined",
+    "Summary": "This script creates a new Virtual Machine with VNet, Subnet, Public IP and NSG.",
+    "Title": "Azure - Create VM using PowerShell",
+    "UpdatedDate": "2018-9-6T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-create-vm-using-powershell",
+    "UserTags": "Microsoft Azure, Powershell Script"
+}
